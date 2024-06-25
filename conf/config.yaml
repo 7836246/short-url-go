@@ -1,0 +1,32 @@
+# Server 配置
+http:
+  # 端口配置
+  port: 6001
+  # 路由公共前缀
+  routerPrefix: "/api"
+  # 数据库名称
+  dbName: "shortUrl.db"
+seo:
+  title: "短链"
+  keywords: "1"
+  description: "123"
+# Zap 日志配置
+zap:
+  # 日志级别（可选值：debug, info, warn, error, dpanic, panic, fatal）
+  level: info
+  # 日志格式（console 或 json）
+  format: console
+  # 日志前缀
+  prefix: ""
+  # 日志文件夹名称
+  director: log
+  # 是否显示日志行号
+  show-line: true
+  # 编码日志级别
+  encode-level: LowercaseColorLevelEncoder
+  # 堆栈跟踪键
+  stacktrace-key: stacktrace
+  # 是否在控制台输出日志
+  log-in-console: true
+  # 日志文件保留天数（-1 表示不限制）
+  retention-day: -1

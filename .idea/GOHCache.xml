@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Cutter">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/initialize/internal/cutter.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GenerateShortUrlReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/api/v1/url.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetLongUrlReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/api/v1/url.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Http">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/config/http.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Seo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/config/seo.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/config/server.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ShortUrl">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/model/short_url.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UrlReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/api/v1/url.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Zap">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/config/zap.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ZapCore">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/initialize/internal/zap_core.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/api/v1/url.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719297108910" />
+              <option name="schema">
+                <list>
+                  <option value="GenerateShortUrlReq" />
+                  <option value="GetLongUrlReq" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/conf/config.yaml.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719296533352" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/config/http.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719357812208" />
+              <option name="schema">
+                <list>
+                  <option value="Http" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/config/seo.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719309143994" />
+              <option name="schema">
+                <list>
+                  <option value="Seo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/config/server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719309144041" />
+              <option name="schema">
+                <list>
+                  <option value="Server" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/config/zap.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719296155464" />
+              <option name="schema">
+                <list>
+                  <option value="Zap" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/dao/url.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719318445491" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/global/global.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719296155423" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/handler/seo.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719309144021" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/handler/url.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719297210104" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/initialize/gorm.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719357812203" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/initialize/internal/constant.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719296633358" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/initialize/internal/cutter.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719295995768" />
+              <option name="schema">
+                <list>
+                  <option value="Cutter" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/initialize/internal/zap_core.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719296155424" />
+              <option name="schema">
+                <list>
+                  <option value="ZapCore" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/initialize/router.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719313902027" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/initialize/server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719303759194" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/initialize/server_other.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719303625926" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/initialize/server_win.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719303595416" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/initialize/viper.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719296496763" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/initialize/zap.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719296428529" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/middleware/cors.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719303539728" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/model/short_url.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719289432757" />
+              <option name="schema">
+                <list>
+                  <option value="ShortUrl" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/service/url.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719318554573" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/utils/directory.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719296428602" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/utils/hash.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719317565540" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/utils/random.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719293054761" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/utils/randomUrl.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719292873753" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1719303539767" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="cutter" value="Cutter" />
+        <entry key="generate_short_url_req" value="GenerateShortUrlReq" />
+        <entry key="get_long_url_req" value="GetLongUrlReq" />
+        <entry key="http" value="Http" />
+        <entry key="seo" value="Seo" />
+        <entry key="server" value="Server" />
+        <entry key="short_url" value="ShortUrl" />
+        <entry key="url_req" value="UrlReq" />
+        <entry key="zap" value="Zap" />
+        <entry key="zap_core" value="ZapCore" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1719285627100" />
+  </component>
+</project>

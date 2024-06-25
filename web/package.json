@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/icon": "^1.0.0",
+    "nuxt": "^3.12.2",
+    "vue": "^3.4.30",
+    "vue-router": "^4.4.0"
+  },
+  "packageManager": "pnpm@9.2.0+sha512.98a80fd11c2e7096747762304106432b3ddc67dcf54b5a8c01c93f68a2cd5e05e6821849522a06fb76284d41a2660d5e334f2ee3bbf29183bf2e739b1dafa771",
+  "devDependencies": {
+    "@arco-design/web-vue": "^2.55.3",
+    "@iconify-json/tabler": "^1.1.114",
+    "@nuxtjs/color-mode": "^3.4.2",
+    "@unocss/nuxt": "^0.61.0",
+    "arco-design-nuxt-module": "^0.1.0"
+  }
+}

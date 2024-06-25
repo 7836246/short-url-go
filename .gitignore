@@ -1,0 +1,29 @@
+# 忽略目录
+log/
+
+# 忽略特定文件或类型
+*.db
+
+# Nuxt dev/build outputs
+
+web/.output
+web/.data
+web/.nuxt
+web/.nitro
+web/.cache
+web/dist
+
+# Node dependencies
+
+web/node_modules
+
+# Logs
+
+web/logs
+web/*.log
+
+# Misc
+
+web/.DS_Store
+web/.fleet
+web/.idea
